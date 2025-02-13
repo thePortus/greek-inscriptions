@@ -1,4 +1,4 @@
-# jekyll-project-template
+# greek-inscriptions
 
 Write a tagline here!
 
